@@ -24,9 +24,4 @@ Cost review areas:
 For each recommendation:
 - **Resource**: The terraform resource
 - **Current**: What's configured now
-- **Recommended**: What to change
-- **Impact**: Estimated cost impact (low/medium/high)
-
-Focus on actionable changes, not theoretical optimizations.
-
-Update your agent memory with cost patterns discovered.
+- **Reclaude your agent memory with cost patterns discovered.
